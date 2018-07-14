@@ -18,7 +18,7 @@ Time spent: **8** hours spent in total
 
 - [x] Insecure Direct Object Reference Challenge 2
 
-- [] Insecure Direct Object Reference Bank
+- [ ] Insecure Direct Object Reference Bank
 
 
 ![Alt Text](week1.gif)
